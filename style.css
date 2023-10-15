@@ -235,18 +235,24 @@ h1 span{
     margin: 10px;
     text-decoration: none;
 }
-
+.fa-facebook{
+    cursor: pointer;
+}
 .fa-twitter{
-    padding-left: 22px;
+    padding-left: 27px;
+    cursor: pointer;
 }
 .fa-youtube{
-    padding-left: 22px;
+    padding-left: 27px;
+    cursor: pointer;
 }
 .fa-instagram{
-    padding-left: 22px;
+    padding-left: 27px;
+    cursor: pointer;
 }
 .fa-skype{
-    padding-left: 22px;
+    padding-left: 27px;
+    cursor: pointer;
 }
 .fa:hover{
     color: red;
